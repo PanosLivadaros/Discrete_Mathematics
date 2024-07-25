@@ -1,3 +1,4 @@
+# Discrete_Mathematics
 cycle.py --> Creates and visualizes a cycle graph of n nodes.
 
 havel_hakimi.py --> Checks whether a given degree sequence is graphical using the Havel-Hakimi algorithm and visualizes the graph if it is graphical.
